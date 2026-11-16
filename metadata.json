@@ -1,0 +1,6 @@
+{
+  "name": "Apex Circuit",
+  "description": "A 3D arcade circuit racing game with sunlit coastal and canyon tracks, drift physics, nitro boost, AI rivals, and procedural Web Audio telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
